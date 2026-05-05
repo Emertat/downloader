@@ -1,10 +1,6 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [Zorin-OS-18.1-Lite-64-bit](./Zorin-OS-18.1-Lite-64-bit)
 
 ---
 
